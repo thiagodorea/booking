@@ -22,7 +22,8 @@ Projeto que simula um site de reservas de hoteis. Apresenta uma listagem dos pro
 <br>
 
 # Visuais
-![image](/uploads/97fcd716642facb0bb58d0ccb19c514b/image.png)
+
+![image](https://github.com/thiagodorea/booking/assets/60205208/4417d4f4-01c3-44af-a88b-b9ecb5a56730)
 
 <br>
 <br>
