@@ -1,0 +1,6 @@
+{
+    "menus":[
+        {"id":1,"title": "Reservas","link":"/reservas","private":false },
+        {"id":2,"title": "Configuração","link":"/configuracao","private":true }
+    ]
+}

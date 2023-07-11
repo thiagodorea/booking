@@ -1,0 +1,32 @@
+.calendario{
+    box-shadow: none !important;
+    border: none;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+    .imagem{
+        height:25vh ;
+    }
+}
+    
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .imagem{
+        height: 35vh;
+    }
+}
+    
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .imagem{
+        height: 48vh;
+    }
+}
+
+.sem-imagem{
+    background-image: url(../../../../sem-imagem.gif);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: contain;
+}

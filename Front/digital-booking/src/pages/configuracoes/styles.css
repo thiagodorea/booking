@@ -1,0 +1,15 @@
+.dropzone {
+    border: 1px dashed #ddd;
+    cursor: pointer;
+    transition: height 0.2s ease;
+}
+
+.preview{
+    width: 36px;
+    height: 36px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-right: 10px;
+}

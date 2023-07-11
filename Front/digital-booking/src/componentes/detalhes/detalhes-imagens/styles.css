@@ -1,0 +1,6 @@
+.sem-imagem{
+    background-image: url(../../../../sem-imagem.gif);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: contain;
+}

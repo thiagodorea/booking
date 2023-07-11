@@ -1,0 +1,18 @@
+.btn-nav {
+    width: 190px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.avatar{
+    width: 40px;
+    height: 40px;
+    background: #31363F;
+    border-radius: 50%;
+}
+
+.subtitulo{
+    font-size: 10px;
+}

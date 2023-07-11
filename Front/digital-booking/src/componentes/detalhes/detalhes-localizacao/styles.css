@@ -1,0 +1,20 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+    .leaflet-container{
+        height:25vh ;
+    }
+}
+    
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .leaflet-container{
+        height: 30vh;
+    }
+}
+    
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .leaflet-container{
+        height: 48vh;
+    }
+}
