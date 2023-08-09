@@ -1,5 +1,4 @@
 <h1 align="center">Digital Booking</h1>
-<h2 align="center">Trabalho integrador de conclusão de curso</h2>
 
 
 
